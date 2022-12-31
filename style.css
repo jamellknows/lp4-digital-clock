@@ -1,0 +1,24 @@
+#clock {
+  font-size: 175px;
+  width: 900px;
+  margin: 50px;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+#case {
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  width: 1000px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background: linear-gradient(#4e3b07, #ad4917);
+  border: 5px solid brown;
+  border-radius: 12px;
+}
+
+/*# sourceMappingURL=style.css.map */
